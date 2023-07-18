@@ -1,5 +1,6 @@
 # reading-notes2
-### My reading journal
+
+## My reading journal
 
 - Your home page is your README file
 
@@ -27,3 +28,9 @@ git commit
 
 This is the first line.  
 And this is the second line.
+
+Table of contents:
+
+[Clase A](reading-notes2/ClaseA.md)
+
+Clase B
