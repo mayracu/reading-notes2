@@ -31,6 +31,6 @@ And this is the second line.
 
 Table of contents:
 
-[Clase A](reading-notes2/ClaseA.md)
+[Clase A](ClaseA.md)
 
-Clase B
+[Clase B](ClaseB.md)
